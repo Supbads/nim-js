@@ -2,4 +2,4 @@ This is a javascript implementation of the mathematical strategy game [Nim](http
 
 The game board consists of counters arranged into columns. You take it in turns with the computer to remove as many counters as you like from a single column. The aim of the game is to remove the last counter.
 
-To run this program, open nim.html in a browser.
+To run this program, clone this repository and open nim.html in a browser.
